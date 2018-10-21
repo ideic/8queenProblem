@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+8Queen/.vs/
+
+/8Queen/8Queen/Debug/8Queen.log
+/8Queen/8Queen/Debug/8Queen.tlog
+/8Queen/8Queen/Debug/*.pdb
+/8Queen/8Queen/*.user
+/8Queen/8Queen/Debug/*.idb
+/8Queen/Debug/*.ilk
+/8Queen/Debug/*.pdb
